@@ -1,0 +1,23 @@
+-a annotation file: sampleSheets_minfi.ls
+-level of the files: 1
+-center of the studies: JHU_USC
+-bioconductor package: minfi
+SampleSheet /DAS/TBlab/Touati/TCGA/MethylationNormalization/Input/BRCA/file_manifest.txt:OK
+SampleSheet /DAS/TBlab/Touati/TCGA/MethylationNormalization/Input/BLCA/file_manifest.txt:OK
+SampleSheet /DAS/TBlab/Touati/TCGA/MethylationNormalization/Input/LIHC/file_manifest.txt:OK
+SampleSheet /DAS/TBlab/Touati/TCGA/MethylationNormalization/Input/LUAD/file_manifest.txt:OK
+SampleSheet /DAS/TBlab/Touati/TCGA/MethylationNormalization/Input/PAAD/file_manifest.txt:OK
+SampleSheet /DAS/TBlab/Touati/TCGA/MethylationNormalization/Input/GBM/file_manifest.txt:OK
+SampleSheet /DAS/TBlab/Touati/TCGA/MethylationNormalization/Input/UCS/file_manifest.txt:OK
+SampleSheet /DAS/TBlab/Touati/TCGA/MethylationNormalization/Input/LAML/file_manifest.txt:OK
+SampleSheet /DAS/TBlab/Touati/TCGA/MethylationNormalization/Input/HNSC/file_manifest.txt:OK
+SampleSheet /DAS/TBlab/Touati/TCGA/MethylationNormalization/Input/OV/file_manifest.txt:OK
+SampleSheet /DAS/TBlab/Touati/TCGA/MethylationNormalization/Input/READ/file_manifest.txt:OK
+SampleSheet /DAS/TBlab/Touati/TCGA/MethylationNormalization/Input/PRAD/file_manifest.txt:OK
+SampleSheet /DAS/TBlab/Touati/TCGA/MethylationNormalization/Input/KICH/file_manifest.txt:OK
+SampleSheet /DAS/TBlab/Touati/TCGA/MethylationNormalization/Input/ESCA/file_manifest.txt:OK
+SampleSheet /DAS/TBlab/Touati/TCGA/MethylationNormalization/Input/KIRC/file_manifest.txt:OK
+SampleSheet /DAS/TBlab/Touati/TCGA/MethylationNormalization/Input/LUSC/file_manifest.txt:OK
+SampleSheet /DAS/TBlab/Touati/TCGA/MethylationNormalization/Input/CESC/file_manifest.txt:OK
+SampleSheet /DAS/TBlab/Touati/TCGA/MethylationNormalization/Input/COAD/file_manifest.txt:OK
+SampleSheet /DAS/TBlab/Touati/TCGA/MethylationNormalization/Input/STAD/file_manifest.txt:OK
