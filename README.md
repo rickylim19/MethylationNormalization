@@ -15,6 +15,6 @@
     cancers.ls                   -> list of cancer directory
     getSampleSheet.py            -> script to parse the annotation file for minfi
     getSampleSheets.sh           -> script to batch parse the annotation file for minfi
-    InormalizeBetaScore.R        -> script to normalize the DNA methylation data from TCGA
+    normalizeBetaScore.R         -> script to normalize the DNA methylation data from TCGA
     sampleSheets_minfi.log       -> log file from adding the annotation
     normalizeBetaScore_minfi.log -> log file from normalizing the DNA methylation
